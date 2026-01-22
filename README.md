@@ -6,20 +6,20 @@
   - [PowerShell automation for Active Directory user provisioning and SQL Server data import](https://github.com/isaacinthecloud/PowerShell-Automation.git)
   - Example 2 (LINK HERE)
 
-<h2>AWS Projects</h2>
+<h2>☁️ AWS Projects</h2>
 
 - <b>Category 1</b>
   - Example 1 (LINK HERE)
   - Example 2 (LINK HERE)
 
 
-<h2>👨‍💻 Homelabbing Projects</h2>
+<h2>🖥️ Homelabbing Projects</h2>
 
 - <b>Category 1</b>
   - Example 1 (LINK HERE)
   - Example 2 (LINK HERE)
 
-<h2>👨‍💻 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
