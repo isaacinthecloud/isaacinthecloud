@@ -15,7 +15,8 @@
 
 <h2>🖥️ Homelabbing Projects</h2>
 
-- <b>Category 1</b>
+- <b>Secure Self-Hosted Cloud Infrastructure
+  - [Zero-Trust Proxmox Homelab](https://github.com/isaacinthecloud/homelab-infrastructure.git)
   - Example 1 (LINK HERE)
   - Example 2 (LINK HERE)
 
