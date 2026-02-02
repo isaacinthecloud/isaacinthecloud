@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>PowerShell</b>
-  - [PowerShell automation for Active Directory user provisioning and SQL Server data import](https://github.com/isaacinthecloud/PowerShell-Automation.git)
+  - [PowerShell Automation for Active Directory User Provisioning and SQL Server Data Import](https://github.com/isaacinthecloud/PowerShell-Automation.git)
   - Example 2 (LINK HERE)
 
 <h2>☁️ AWS Projects</h2>
@@ -17,7 +17,7 @@
 
 - <b>Secure Self-Hosted Cloud Infrastructure
   - [Zero-Trust Proxmox Homelab Infrastructure using Docker](https://github.com/isaacinthecloud/homelab-infrastructure.git)
-  - [Enterprise network and security management for my homelab environment](https://github.com/isaacinthecloud/Homelab-Networking-Infrastructure-and-Security))
+  - [Enterprise Network and Security Management for my Homelab Environment](https://github.com/isaacinthecloud/Homelab-Networking-Infrastructure-and-Security))
   - Example 2 (LINK HERE)
 
 <h2>📜 Certifications</h2>
