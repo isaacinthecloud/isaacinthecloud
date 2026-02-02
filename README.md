@@ -3,7 +3,7 @@
 <h2>🛡️ Cybersecurity</h2> 
 
 - <b>Detection Engineering & Threat Monitoring</b>
-  - [Integrating a honeypot with my Ubiqiuti Network along with forwarding logs to Azure Sentinel and Splunk](https://github.com/isaacinthecloud/isaacinthecloud)
+  - [Layered honeypot detection using UniFi + VM-based honeypots with Azure Sentinel and Splunk](https://github.com/isaacinthecloud/isaacinthecloud)
   
 <h2>👨‍💻 Software Development Projects</h2>
 
