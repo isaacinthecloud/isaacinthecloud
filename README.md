@@ -1,5 +1,10 @@
 <h1>Hi, I'm Isaac! <br/><a href="https://github.com/isaacinthecloud">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/yourprofile/">Cybersecurity Professional</a>, <a href="https://isaacinthecloud.com">Homelab Enthusiast</a></h1>
 
+<h2>🛡️ Cybersecurity</h2> 
+
+- <b>Placeholder category section</b>
+  - [Integrating a honeypot with my Ubiqiuti Network along with forwarding logs to Azure Sentinel and Splunk](https://github.com/isaacinthecloud/isaacinthecloud)
+  
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>PowerShell</b>
@@ -17,7 +22,7 @@
 
 - <b>Secure Self-Hosted Cloud Infrastructure
   - [Zero-Trust Proxmox Homelab Infrastructure using Docker](https://github.com/isaacinthecloud/homelab-infrastructure.git)
-  - [Enterprise Network and Security Management for my Homelab Environment](https://github.com/isaacinthecloud/Homelab-Networking-Infrastructure-and-Security))
+  - [Enterprise Network and Security Management for my Homelab Environment](https://github.com/isaacinthecloud/Homelab-Networking-Infrastructure-and-Security)
   - Example 2 (LINK HERE)
 
 <h2>📜 Certifications</h2>
