@@ -16,8 +16,8 @@
 <h2>🖥️ Homelabbing Projects</h2>
 
 - <b>Secure Self-Hosted Cloud Infrastructure
-  - [Zero-Trust Proxmox Homelab](https://github.com/isaacinthecloud/homelab-infrastructure.git)
-  - Example 1 (LINK HERE)
+  - [Zero-Trust Proxmox Homelab Infrastructure using Docker](https://github.com/isaacinthecloud/homelab-infrastructure.git)
+  - [Enterprise network and security management for my homelab environment](https://github.com/isaacinthecloud/Homelab-Networking-Infrastructure-and-Security))
   - Example 2 (LINK HERE)
 
 <h2>📜 Certifications</h2>
