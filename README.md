@@ -10,24 +10,45 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
 <br>
 <br>
 
-
-<h1>Projects </h1>
-
 ---
 
-<h2>🛡️ Cybersecurity</h2> 
+<h2>📜 Certifications</h2>
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Project%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Cloud%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/ITIL-Foundations%20v4-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LPI-LPIC--1-orange?style=for-the-badge&logo=lpi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+<br>
+<p>
+  <a href="https://www.credly.com/users/isaac-suazo/badges">Verify my certifications on Credly</a>
+</p>
+
+
+<h1>🏗️ Projects </h1>
+
+
+<h2>🛡️ Cybersecurity</h2>
+
 - <b>Detection Engineering & Threat Monitoring</b>
   - [Layered honeypot detection using UniFi + VM-based honeypots with Azure Sentinel and Splunk](https://github.com/isaacinthecloud/layered-deception-detection-lab)
 
 <h2>👨‍💻 Software Development Projects</h2>
+
 - <b>PowerShell</b>
   - [PowerShell Automation for Active Directory User Provisioning and SQL Server Data Import](https://github.com/isaacinthecloud/PowerShell-Automation.git)
-  - Example 2 (LINK HERE)
+
 <h2>🖥️ Homelabbing Projects</h2>
-- <b>Secure Self-Hosted Cloud Infrastructure
+
+- <b>Secure Self-Hosted Cloud Infrastructure</b>
   - [Zero-Trust Proxmox Homelab Infrastructure using Docker](https://github.com/isaacinthecloud/homelab-infrastructure.git)
   - [Enterprise Network and Security Management for my Homelab Environment](https://github.com/isaacinthecloud/Homelab-Networking-Infrastructure-and-Security)
-  - Example 2 (LINK HERE)
 
 ---
 
@@ -41,10 +62,10 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
 
 <h3>Security & Monitoring</h3>
 <p>
+  <img src="https://img.shields.io/badge/KnowBe4-FF6C37?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Cowrie_Honeypot-4B275F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
 </p>
 
 <h3>Virtualization & Containers</h3>
@@ -67,32 +88,19 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
   <img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white" />
   <img src="https://img.shields.io/badge/ZFS-4479A1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VLAN-006600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
 </p>
 
 <h3>Operating Systems</h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-<h2>📜 Certifications</h2>
-<p>
-  <img src="https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Project%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Cloud%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/ITIL-Foundations%20v4-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LPI-LPIC--1-orange?style=for-the-badge&logo=lpi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-<br>
-<p>
-  <a href="https://www.credly.com/users/isaac-suazo/badges">Verify my certifications on Credly</a>
-</p>
 
 <h2>🤳 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/isaac-suazo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  📧 <a href="mailto:recruiting@isaacinthecloud.com">recruiting@isaacinthecloud.com</a> | 
+  💼 <a href="https://www.linkedin.com/in/isaac-suazo/">LinkedIn</a> | 
+</p>
