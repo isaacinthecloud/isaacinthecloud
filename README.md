@@ -27,7 +27,7 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
 </p>
 <br>
 <p>
-  <a href="https://www.credly.com/users/isaac-suazo/badges">Verify my certifications on Credly</a>
+  <a href="https://www.credly.com/users/isaac-suazo/badges" target="_blank">Verify my certifications on Credly</a>
 </p>
 
 ---
