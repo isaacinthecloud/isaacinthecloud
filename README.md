@@ -3,7 +3,7 @@
 <h2>🛡️ Cybersecurity</h2> 
 
 - <b>Detection Engineering & Threat Monitoring</b>
-  - [Layered honeypot detection using UniFi + VM-based honeypots with Azure Sentinel and Splunk](https://github.com/isaacinthecloud/isaacinthecloud)
+  - [Layered honeypot detection using UniFi + VM-based honeypots with Azure Sentinel and Splunk](https://github.com/isaacinthecloud/layered-deception-detection-lab)
   
 <h2>👨‍💻 Software Development Projects</h2>
 
