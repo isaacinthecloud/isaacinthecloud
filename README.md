@@ -30,6 +30,7 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
   <a href="https://www.credly.com/users/isaac-suazo/badges">Verify my certifications on Credly</a>
 </p>
 
+---
 
 <h1>🏗️ Projects </h1>
 
@@ -98,6 +99,7 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
+---
 
 <h2>🤳 Connect with me:</h2>
 <p>
