@@ -39,6 +39,7 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
 
 - <b>Detection Engineering & Threat Monitoring</b>
   - [Layered honeypot detection using UniFi + VM-based honeypots with Azure Sentinel and Splunk](https://github.com/isaacinthecloud/layered-deception-detection-lab)
+  - [Python-based STIX/TAXII collector for MITRE ATT&CK threat intelligence](https://github.com/isaacinthecloud/stix-taxii-threat-ingestion)
 
 <h2>👨‍💻 Software Development Projects</h2>
 
