@@ -1,10 +1,10 @@
-<h1>Hi, I'm Isaac! <br/>Cloud Engineer</a>, Cybersecurity Professional, Homelab Enthusiast</h1>
+<h1>Hi, I'm Isaac! <br/>Cloud Engineer, Cybersecurity Professional, Homelab Enthusiast</h1>
 
 ---
 
 <h2>👋 About Me</h2>
 <p>
-I'm a cybersecurity professional and cloud engineer with hands-on experience building enterprise-grade infrastructure and automation solutions. Currently completing my cloud computing degree, my work spans security engineering, cloud architecture, and sophisticated homelab environments that mirror production deployments. I'm constantly learning new technologies and building projects that showcase practical, real-world skills so check back regularly for new additions to my portfolio!
+I'm a cybersecurity professional and cloud engineer with hands-on experience building enterprise-grade infrastructure and automation solutions. I hold a B.S. in Cloud Computing (AWS) from Western Governors University (May 2026), and my work spans security engineering, cloud architecture, and sophisticated homelab environments that mirror production deployments. I'm constantly learning new technologies and building projects that showcase practical, real-world skills so check back regularly for new additions to my portfolio!
 </p>
 
 <br>
@@ -19,11 +19,13 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-Project%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-Cloud%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/ITIL-Foundations%20v4-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LPI-LPIC--1-orange?style=for-the-badge&logo=lpi&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/LPI-Linux%20Essentials-orange?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ITIL-4%20Foundation-blueviolet?style=for-the-badge" />
 </p>
 <br>
 <p>
@@ -109,6 +111,7 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
 
 <h2>🤳 Connect with me:</h2>
 <p>
-  📧 <a href="mailto:recruiting@isaacinthecloud.com">recruiting@isaacinthecloud.com</a> | 
-  💼 <a href="https://www.linkedin.com/in/isaac-suazo/">LinkedIn</a> | 
+  🌐 <a href="https://isaacinthecloud.com">isaacinthecloud.com</a> |
+  📧 <a href="mailto:recruiting@isaacinthecloud.com">recruiting@isaacinthecloud.com</a> |
+  💼 <a href="https://www.linkedin.com/in/isaac-suazo/">LinkedIn</a>
 </p>
