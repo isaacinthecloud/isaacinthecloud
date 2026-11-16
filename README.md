@@ -35,6 +35,11 @@ I'm a cybersecurity professional and cloud engineer with hands-on experience bui
 <h1>🏗️ Projects </h1>
 
 
+<h2>☁️ Cloud / AWS Projects</h2>
+
+- <b>Infrastructure as Code</b>
+  - [Portfolio site on AWS with CloudFormation: private S3 + CloudFront (OAC), ACM, WAF, Route 53, flat-rate Free plan and budget alerts](https://github.com/isaacinthecloud/isaacinthecloud-site-infra)
+
 <h2>🛡️ Cybersecurity</h2>
 
 - <b>Detection Engineering & Threat Monitoring</b>
